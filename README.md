@@ -55,7 +55,7 @@ The dataset includes columns like:
 ## 🗂️ Deliverables
 
 - 📊 `Spotify_Trends_Dashboard.pbix` – Power BI file with full visuals
-- 📁 Cleaned dataset (optional .csv or Excel)
+- 📁 Cleaned dataset.
 
 ---
 
